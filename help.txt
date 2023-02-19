@@ -1,0 +1,27 @@
+<p>The purpose of this web app is to aid you in memorizing scripture. The approach I use
+here is based on one I read about years ago where rather than repeating a Bible Verse over
+and over and over in hopes that you will remember it, we act more strategically and actually
+practice REMEMBERING the verse instead of repeating it. In my experience, this leads to
+faster memorization for less effort.<p>
+
+<p>Here is how you use this program: The upper section has the controls that you use to 
+select the Bible Verse you want to memorize. It also includes a "Hide/Unhide" button to
+hide the complete text, or if you are struggling to remember part of the verse to "Unhide"
+the text so you can re-read it. The verse is shown in the middle section of this page.</p>
+
+<p>Then, in the bottom section we have the abbreviated verse - it shows the first letter
+of each word in the verse as well as the punctuation. The idea is that once you have read over
+the verse a few times, you can hide the verse and then try to recall the verse, using these
+first letters of each word as a hint to help you practice remembering.</p>
+
+<p>Then, as you grow in confidence, you can increase the "Mask" to hide some of the
+abbreviated letters so that you can challenge yourself to remember more of the verse without
+the hint provided by the first letter of each word. If you find yourself struggling, you
+can decrease the Mask in order to see what some of those letters were again.</p>
+
+<p>Presently, this web-app only uses the public-domain King James Version of the Bible.
+If there is enough interest, I may look into adding other translations that are free to use
+in this way. Unfortunately, due to their copyright status, I am unable to legally provide
+most newer translations of the Bible for use with this web-app.</p>
+
+<p>If you want to tinker with this web-app, the source will shortly be available on git-hub.</p>
